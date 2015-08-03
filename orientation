@@ -1,0 +1,42 @@
+Teamwork Project Assignment for the QA Fundamentals Course @ SoftUni
+This teamwork project assignment is designed to create overall skills for software testing as well as for easy integration in a software development process
+Project Description
+Create a software project – either a real software (preferable) or/and a Software Requirements Specification that describes all functional requirements and use cases of a software product. You can add diagrams and mock-ups for better understanding. For each functionality you should make test scenarios with cases in them. Carefully cover what should and what should not happen in the application. If it’s a real software product, optionally automate some of the work. Either way you should use an issue tracking system to store your cases and assignments. Use version control system to store your specification growth (its revisions). If you have a software product, use version control system for the whole project.
+There are no restrictions regarding the project idea, it can be any kind of software – e.g. bank system, forum, calculator, text editor, game, etc. It applies for both specification and real code. If there is a real coded project it also does not matter if it’s a mobile, web, desktop or console application.
+General Requirements
+•	Register a GitHub account (http://github.com)
+•	Step by step commit your specification growth
+•	Write and assign tasks in ‘GitHub issues’ for each thing that should be done, e.g.
+o	Writing the header of the SRS
+o	Describing the login functionality
+o	Describing the login Use cases
+o	Implementing a certain feature (if there’s a code)
+o	Writing scenarios for login functionality
+o	Etc.
+•	Software Requirements Specification describing each functionality and use case of the project. Use a template for an SRS from the Internet
+•	Test scenarios with cases covering everything in the project. There should be covered the desired output as well as covered what should happen if an unwanted input comes. Use template for Test scenarios and Test cases from the Internet
+User Interface
+If the project consists only of documentation, you will have to explain to the audience how it should look like. You may use mock-up tools for the screens or other prototyping way. You may use the white board to draw screens/items. For those who code console applications will be good if they explain their target audience or use examples of what it should like if it had UI.
+Additional (optional) Requirements
+•	Use an iterative methodology, plan sprints, tell the result of daily meetings, commit a project backlog
+•	Separate roles in a software project
+•	Code 
+•	Test automation
+Assessment Criteria
+Each team will have to deliver a public defense of its work in front of the other students, trainers and assistants. Teams will have only 15 minutes for the following:
+•	Demonstrate how the application should work and look like
+•	Show the specification and the scenarios
+•	Explain how each team member has contributed: display the commit logs in the Source Control system you are using.
+•	Optionally you might prepare a presentation (3-4 slides).
+Please be strict in timing! On the 15th minute you will be interrupted! It is good idea to leave the last 2-3 minutes for questions from the other students, trainers and assistants.
+Be well prepared for presenting maximum of your work for minimum time. Bring your own laptop. Test it preliminary with the multimedia projector. Open the project assets beforehand to save time.
+Assessment Criteria
+•	SRS – 0…20
+•	All cases covered – 0…15
+•	Covered unwanted input – 0…15
+•	Teamwork* (source control; each team member contributed in 5 different days; distribution of tasks) – 0…5
+•	Bonus (bonus points are given for exceptional project) – 0..10
+* If not all team members have contributed to the project, this does not affect the teamwork points.
+Give Feedback about Your Teammates
+You will be invited to provide feedback about all your teammates, their attitude to this project, their technical skills, their team working skills, their contribution to the project, etc. The feedback is important part of the project evaluation so take it seriously and be honest.
+
